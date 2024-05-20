@@ -1,9 +1,3 @@
-/*
-    Project 2
-    Name: Sameeraa Kandalgaonkar
-    NetID: sxk220350
-*/
-
 //import all teh libraries necessary for the program
 #include <iostream>
 #include <fstream>
