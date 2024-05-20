@@ -1,4 +1,4 @@
-//import all teh libraries necessary for the program
+//import all the libraries necessary for the program
 #include <iostream>
 #include <fstream>
 #include <string>
